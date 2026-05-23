@@ -1,0 +1,4 @@
+app_name = "Golash"
+Version = "0.0.1"
+DownloadPath = "download"
+FilenameTemplate = "%(title)s.%(ext)s"
